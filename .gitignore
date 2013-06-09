@@ -1,4 +1,10 @@
-*.class
+
+.classpath
+bin/
+
+# Ignore Vim temporary files
+*.swp
+*~
 
 # Package Files #
 *.jar
